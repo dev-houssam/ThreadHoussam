@@ -1,0 +1,34 @@
+Initialisation
+Hello World in this sequential thread truc !!!
+Ajout de thread : [PID: 1]
+Ajout de thread : [PID: 2]
+Ajout de thread : [PID: 3]
+Start Initialisation threads
+Init
+Init
+Init
+Lancement thread : nb_3
+Execution de 3 
+Nom de la personne : Rachid 
+Fin Execution ! 
+Save context : necessary 
+Execution de 1 
+Nom de la personne : Houssam 
+Fin Execution ! 
+Save context : necessary 
+Execution de 3 
+Nom de la personne : Rachid 
+Fin Execution ! 
+Save context : necessary 
+Execution de 2 
+Nom de la personne : Islam 
+Fin Execution ! 
+Save context : necessary 
+Execution de 2 
+Nom de la personne : Islam 
+Fin Execution ! 
+Save context : necessary 
+Execution de 1 
+Nom de la personne : Houssam 
+Fin Execution ! 
+Save context : necessary 
